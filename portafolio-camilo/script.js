@@ -249,6 +249,10 @@ const flag=el("finish-flag",13850); layerWorld.appendChild(flag);
 
 
 
+
+
+
+
 /* monedas y obstáculos */
 const coins=[], obstacles=[];
 const coinXs=[];
