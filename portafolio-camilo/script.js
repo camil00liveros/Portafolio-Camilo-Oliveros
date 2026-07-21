@@ -247,6 +247,8 @@ panel(13150,`<img src="assets/foto.jpg" alt="Foto de Camilo Oliveros">
  <span>📍 Popayán, Cauca</span></div>`,"contact");
 const flag=el("finish-flag",13850); layerWorld.appendChild(flag);
 
+
+
 /* monedas y obstáculos */
 const coins=[], obstacles=[];
 const coinXs=[];
